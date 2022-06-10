@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mert Usta
 - 👀 Unity - Mixed Reality 
 - 🌱 HoloLens 2 
-- 💞️ https://tr.linkedin.com/in/mert-usta-eee 
+- ✨ https://tr.linkedin.com/in/mert-usta-eee 
 - 📫 mertusta1996@gmail.com 
 
 <!---
