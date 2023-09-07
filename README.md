@@ -1,5 +1,5 @@
 - ✨ Mert Usta - Software Engineer
-- 🌱 Unity Developer - working mostly Mixed Reality projects (Hololens 2)
+- 🌱 C# - Unity Developer
 - 📫 mertusta1996@gmail.com 
 
 <!---
